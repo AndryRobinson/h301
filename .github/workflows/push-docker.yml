@@ -32,4 +32,5 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
+          tags: badre28/python-ci:latest
           
